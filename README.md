@@ -14,6 +14,11 @@
   <img align="center" alt="Vscode" width="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
   <img align="center" alt="Jupyter" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 </div>
+<br/>
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=annybuch&show_icons=true&theme=radical&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annybuch&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 ## Meus contatos:
 <div> 
@@ -25,9 +30,11 @@
 
 
 ## 
-- 📸 Além da Área de TI, gosto também de design gráfico e edições.
+📸 Gosto também de design e edições.
 <div>
  <img src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" target="_blank"></a>
  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" target="_blank"></a>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" target="_blank"></a>
+ <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" target="_blank"></a>
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
 <div/>
+
