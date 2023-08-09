@@ -1,6 +1,5 @@
 ## Olá, eu sou a Raiany Cristina!
 - 💖 Estudante de **ADS**
-- 💻 Desenvolvedora **Full Stack**
 - 🌐 Técnica em Redes de Computadores
 - ✅ Estudando **Salesforce**
 - 👀 **Procurando um estágio em TI**
