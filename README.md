@@ -1,16 +1,25 @@
 ## Olá, eu sou a Raiany Cristina!
+- Desenvolvedora Junior back-end c# .NET
+- MongoDB | MySQL | Web API'S | RabbitMQ
 - 💖 Estudante de **ADS**
 - 🌐 Técnica em Redes de Computadores
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="AWS" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
   <img align="center" alt="MySql" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
-  <img align="center" alt="Vscode" width="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
-  <img align="center" alt="Jupyter" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+  <img align="center" alt="C#" width="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png">
+  <img align="center" alt="RestAPI" width="40" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png">
+  <img align="center" alt="WebSocket" width="40" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png">
+  <img align="center" alt="Net" width="40" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png">
+  <img align="center" alt="Rabbit" width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073">
+  <img align="center" alt="Redis" width="40" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png">
+  <img align="center" alt="MongoDB" width="40" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png">
+  <img align="center" alt="Jenkins" width="40" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png">
+  <img align="center" alt="docker" width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png">
+  
 </div>
 <br/>
 <div>
