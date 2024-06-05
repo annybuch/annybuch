@@ -18,12 +18,6 @@
   <img align="center" alt="docker" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png">
 </div>
 
-
-<br/>
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annybuch&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
 ## Meus contatos:
 <div> 
   <a href="https://www.instagram.com/anny.buch/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
