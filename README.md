@@ -1,6 +1,6 @@
 ## Olá, eu sou a Raiany Cristina!
 - Desenvolvedora Junior back-end c# .NET
-- MongoDB | MySQL | Web API'S | RabbitMQ | SQK | ORACLE
+- MongoDB | MySQL | Web API'S | RabbitMQ | SQL | ORACLE
 - 💖 Estudante de **ADS**
 - 🌐 Técnica em Redes de Computadores
 
